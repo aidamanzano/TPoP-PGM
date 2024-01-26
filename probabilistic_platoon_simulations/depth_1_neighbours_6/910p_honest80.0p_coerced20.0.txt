@@ -1,0 +1,11 @@
+,Simulation number,Probability of honest cars,Probability of coerced cars,Expected Number of Edges
+0,0,0.8,0.2,0.24
+1,1,0.8,0.2,0.24
+2,2,0.8,0.2,0.24
+3,3,0.8,0.2,0.24
+4,4,0.8,0.2,0.24
+5,5,0.8,0.2,0.24
+6,6,0.8,0.2,0.24
+7,7,0.8,0.2,0.24
+8,8,0.8,0.2,0.24
+9,9,0.8,0.2,0.24
